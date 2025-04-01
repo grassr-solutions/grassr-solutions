@@ -3,12 +3,10 @@
 ## Company Profile
 Grassr Solutions is a specialized business systems development company that creates customizable, affordable applications for desktop, tablet, and mobile platforms. Our core mission is to transform existing business data into powerful, streamlined solutions that enhance operational efficiency.
 
-
 ## Key Service Features
 - **Automated Reports**: Deliver insights instantly, streamlining decision-making processes
 - **Real-time Data Access**: Ensure access to the latest information for strategic initiatives
 - **Seamless Collaboration**: Enable efficient team communication and collective action
-
 
 ## Business Systems Solutions
 
